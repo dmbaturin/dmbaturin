@@ -1,9 +1,10 @@
 I'm a maintainer of [VyOS](https://vyos.io), an IT generalist, and a functional programming enthusiast.
 
-My biggest side project at this time is [soupault](https://soupault.neocities.org): an unconventional, UNIX-way static site generator that works with the HTML element tree rather than templates, so you can pipe the content of `<pre>` or `<code>` tags through a syntax highlighter of your choice for example.
+My biggest side project at this time is [soupault](https://soupault.neocities.org): an unconventional, UNIX-way static site generator that can manipulate HTML element trees rather than just generate HTML from templates.
+You can pipe the content of `<pre>` or `<code>` tags through a syntax highlighter of your choice, render KaTeX statically, and more.
 
 Work in progress, needs your contributions:
-* A [free culture OCaml textbook](https://ocamlbook.org) ([dmbaturin/ocaml-book](https://github.com/dmbaturin/ocaml-book))
+* ["OCaml From the Ground Up"](https://ocamlbook.org)—a free culture (CC-BY-SA) OCaml textbook. ([dmbaturin/ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org))
 
 If you find my projects helpful, consider buying me a [metaphorical coffee](https://www.buymeacoffee.com/dmbaturin).
 
