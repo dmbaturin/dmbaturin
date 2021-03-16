@@ -1,6 +1,6 @@
-I'm a maintainer of [VyOS](https://vyos.io), an IT generalist, and a functional programming enthusiast.
+I'm a maintainer of [VyOS](https://vyos.net), an IT generalist, and a functional programming enthusiast.
 
-My biggest side project at this time is [soupault](https://soupault.neocities.org): an unconventional, UNIX-way static site generator that can manipulate HTML element trees rather than just generate HTML from templates.
+My biggest side project at this time is [soupault](https://soupault.app): an unconventional, UNIX-way static site generator that can manipulate HTML element trees rather than just generate HTML from templates.
 You can pipe the content of `<pre>` or `<code>` tags through a syntax highlighter of your choice, render KaTeX statically, and more.
 
 Work in progress, needs your contributions:
