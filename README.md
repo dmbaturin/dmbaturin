@@ -6,6 +6,4 @@ You can pipe the content of `<pre>` or `<code>` tags through a syntax highlighte
 Work in progress, needs your contributions:
 * ["OCaml From the Ground Up"](https://ocamlbook.org)—a free culture (CC-BY-SA) OCaml textbook. ([dmbaturin/ocamlbook.org](https://github.com/dmbaturin/ocamlbook.org))
 
-If you find my projects helpful, consider buying me a [metaphorical coffee](https://www.buymeacoffee.com/dmbaturin).
-
 You can also follow me on Mastodon: [@dmbaturin@mastodon.social](https://mastodon.social/@dmbaturin).
